@@ -1,4 +1,4 @@
-#JobLister
+# JobLister
 
 I have developed Joblister, a Job Listing website from scratch. Throughout the development process, 
 I have utilized various programming concepts such as namespaces, templates, classes, and PDO. 
